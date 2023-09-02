@@ -6,17 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/support.gif">
 <p align="left"> <a href="https://twitter.com/qonitah_ana" target="blank"><img src="https://img.shields.io/twitter/follow/qonitah_ana?logo=twitter&style=for-the-badge" alt="qonitah_ana" /></a> </p>
 
-- 🏫 I'm a student at the State Polytechnic of Malang
+- 🏫 I am an Informatics Engineering student at the State Polytechnic of Malang
 
-- 🔭 I’m currently working on **internship**
+- 🔭 Have internship experience as a Web Developer at PT. Amerta Indah Otsuka for 1 year internship
 
-- 🌱 I’m currently learning **about Coding and Data Visualization**
+- 🌱 Enjoy learning about programming languages and keep upgrading my skills
 
-- 💬 Ask me about **anything**
-
-- 👯 Fun fact **I am Funny**
-
-- 🤝 **Nice to meet you**
+- 🤝 Ask me about anything & Nice to meet you
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
