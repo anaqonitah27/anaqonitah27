@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaqonitah27&label=Profile%20views&color=0e75b6&style=flat" alt="anaqonitah27" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/support.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/support.gif">
 <p align="left"> <a href="https://twitter.com/qonitah_ana" target="blank"><img src="https://img.shields.io/twitter/follow/qonitah_ana?logo=twitter&style=for-the-badge" alt="qonitah_ana" /></a> </p>
 
 🏫 I am an Informatics Engineering student at the State Polytechnic of Malang
 
-🔭 Have internship experience as a Web Developer at PT. Amerta Indah Otsuka
+🔭 Have internship experience as a Web Developer at PT. Amerta Indah Otsuka for 1 year 
 
 🌱 Enjoy learning about programming languages and keep upgrading my skills
 
