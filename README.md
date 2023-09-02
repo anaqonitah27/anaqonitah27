@@ -8,7 +8,7 @@
 
 🏫 I am an Informatics Engineering student at the State Polytechnic of Malang
 
-🔭 Have internship experience as a Web Developer at PT. Amerta Indah Otsuka for 1 year 
+🔭 Have internship experience as a Web Developer at PT. Amerta Indah Otsuka
 
 🌱 Enjoy learning about programming languages and keep upgrading my skills
 
