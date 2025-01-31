@@ -1,24 +1,23 @@
-<h1 align="center">Hi Everyone, Welcome to my GitHub Profile ! 👋</h1>
-<h3 align="center">Hello My Name is Ana Qonitah Munawwaroh</h3>
+<h1 align="center">Welcome to my GitHub Profile ! 👋</h1>
+<h3 align="center">My Name is Ana Qonitah Munawwaroh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaqonitah27&label=Profile%20views&color=0e75b6&style=flat" alt="anaqonitah27" /> </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/support.gif">
 <p align="left"> <a href="https://twitter.com/qonitah_ana" target="blank"><img src="https://img.shields.io/twitter/follow/qonitah_ana?logo=twitter&style=for-the-badge" alt="qonitah_ana" /></a> </p>
 
-🏫 I am an Informatics Engineering student at the State Polytechnic of Malang
+🏫 I am a graduate of Informatics Engineering
 
-🔭 Have internship experience as a Web Developer at PT. Amerta Indah Otsuka
+🔭 Have internship experience as a Web Developer at PT. AIO
 
-🌱 Enjoy learning about programming languages and keep upgrading my skills
+🌱 Keep trying to improve my skills
 
-🤝 Ask me about anything & Nice to meet you
+🤝 ​​Ask me anything & nice to meet you
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/qonitah_ana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qonitah_ana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anaqonitah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anaqonitah" height="30" width="40" /></a>
-<a href="https://fb.com/ana qonitah munawwaroh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ana qonitah munawwaroh" height="30" width="40" /></a>
 <a href="https://instagram.com/ana_qonitah27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ana_qonitah27" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anaqonitah04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anaqonitah04" height="30" width="40" /></a>
   
@@ -34,7 +33,6 @@
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
